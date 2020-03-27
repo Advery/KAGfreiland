@@ -655,6 +655,9 @@ ul {
   margin: 0;
 }
 
+.card-smartphone {
+	margin: 0 0 6rem 0;	
+}
 
 /**** INHALT UND LAYOUT ****/
 
@@ -712,7 +715,9 @@ margin: 0 0 2rem 0;
 padding: 0;
 }
 
-
+.download-smartphone {
+   display: none;	
+}
 
 
 .page-wrapper {
