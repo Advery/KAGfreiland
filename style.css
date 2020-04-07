@@ -216,6 +216,9 @@ ul.uk-navbar-dropdown-nav li {
 	color: black;
 	text-decoration: underline;
 }
+a.arrow-left {
+	color: white;
+}
 
 /**** CONTENT ****/
 .uk-container {
