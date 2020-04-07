@@ -216,6 +216,9 @@ ul.uk-navbar-dropdown-nav li {
 	color: black;
 	text-decoration: underline;
 }
+.zurueck-container:hover {
+	color: #c6d138;
+}
 a.arrow-left {
 	color: white;
 }
