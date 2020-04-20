@@ -339,6 +339,9 @@ margin-bottom: 2rem;
 .card-news {
 	margin-bottom: 1.4rem !important;
 }
+.card-news .uk-card-titel-h3 {
+	margin-bottom: 1rem;
+}
 
 /**** PLZ-SUCHE ****/
 #map {
