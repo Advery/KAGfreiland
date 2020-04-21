@@ -196,9 +196,6 @@ ul.uk-navbar-dropdown-nav li {
   margin:0;
   text-shadow: 0px 0px 3px rgba(0,0,0,0.4);
 }
-.titeldunkel {
-  color: black;
-}
 .bild-titel p {
   font-size: 1.8rem;
   color: white;
@@ -208,6 +205,9 @@ ul.uk-navbar-dropdown-nav li {
 .bild-titel p a {
   color: white;
   text-decoration: underline;
+}
+.bild-titel h1.titeldunkel, .bild-titel p.titeldunkel, .bild-titel p.titeldunkel a {
+  color: black;
 }
 
 /**** ZURÜCK-LINK ****/
