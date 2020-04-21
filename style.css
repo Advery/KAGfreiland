@@ -208,6 +208,7 @@ ul.uk-navbar-dropdown-nav li {
 }
 .bild-titel h1.titeldunkel, .bild-titel p.titeldunkel, .bild-titel p.titeldunkel a {
   color: black;
+text-shadow: none;
 }
 
 /**** ZURÜCK-LINK ****/
