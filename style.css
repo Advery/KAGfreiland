@@ -223,7 +223,7 @@ text-shadow: none;
 .zurueck-container:hover {
 	color: #c6d138;
 }
-a.arrow-left, a.arrow-right {
+a.arrow-left, .uk-card-body a.arrow-right {
 	color: white;
 }
 
