@@ -343,8 +343,11 @@ margin-bottom: 2rem;
 .card-news {
 	margin-bottom: 1.4rem !important;
 }
+.card-news p {
+	margin-bottom: 1.5rem;
+}
 .card-news .uk-card-titel-h3 {
-	margin-bottom: 0.5rem;
+	margin-bottom: 1.5rem;
 }
 .uk-card.card-news div:first-of-type {
 	margin-bottom: 0;
