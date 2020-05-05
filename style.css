@@ -333,6 +333,10 @@ hyphens: auto;
 .uk-grid-column-small > *, .uk-grid-small > * {
   padding-left: 0.4rem;
 }
+.uk-grid-small a:nth-child(n+5) {
+  padding-top: 0.4rem;
+}
+
 /**** DOWNLOADS ****/
 .abstand-downloads {
 margin-top:2rem;
