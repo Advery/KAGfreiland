@@ -87,7 +87,7 @@ p a:hover {
   color: #c6d138;
 }
 em {
-	color: black;
+	color: black !important;
 }
 
 /**** HEADER & NAV ****/
@@ -347,6 +347,15 @@ margin-bottom: 2rem;
 }
 .listpunkt-accordion {
 	list-style-type: none !important!
+	padding: 0;
+}
+.uk-accordion-title {
+    display: block;
+  font-family: anivers, sans-serif;
+  font-size: 3.2rem;
+  text-transform: uppercase;
+    color: #333;
+    overflow: hidden;
 }
 
 /**** AKTUELLES ****/
