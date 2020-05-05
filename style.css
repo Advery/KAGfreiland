@@ -258,6 +258,10 @@ p {
 p:last-of-type {
   margin-bottom: 0;
 }
+.legende {
+	font-size: 1.4rem;
+	line-height: 1.8rem;
+}
 .text-inhalt {
   background-color: #eaeaea;
 }
