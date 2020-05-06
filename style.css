@@ -261,6 +261,7 @@ p:last-of-type {
 .legende {
 	font-size: 1.4rem;
 	line-height: 1.8rem;
+	margin-bottom: 3rem;
 }
 .text-inhalt {
   background-color: #eaeaea;
