@@ -404,7 +404,17 @@ ul#loc_results li {
 ul#loc_results li:nth-child(odd) {
   background-color: #dadada;
 }
+.checkbox-wrapper {
+	margin-bottom: 0.5rem;
+}
 .marker-icon {}
+.checkbox-box {
+	margin-right: 0.5rem;
+}
+.checkbox-label {
+	margin-left: 0.5rem;
+}
+
 
 /**** FORMULAR ****/
 .uk-form-label {
