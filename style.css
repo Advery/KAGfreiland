@@ -404,9 +404,7 @@ ul#loc_results li {
 ul#loc_results li:nth-child(odd) {
   background-color: #dadada;
 }
-.marker-icon {
-	width: 3rem;
-}
+.marker-icon {}
 
 /**** FORMULAR ****/
 .uk-form-label {
