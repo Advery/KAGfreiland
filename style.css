@@ -410,9 +410,14 @@ ul#loc_results li:nth-child(odd) {
 .marker-icon {}
 .checkbox-box {
 	margin-right: 0.5rem;
+	border: 1px solid #666;
 }
 .checkbox-label {
 	margin-left: 0.5rem;
+}
+.uk-checkbox:checked, .uk-checkbox:indeterminate, .uk-radio:checked {
+    background-color: #c6d138;
+    border-color: transparent;
 }
 
 
