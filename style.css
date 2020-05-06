@@ -410,7 +410,7 @@ ul#loc_results li:nth-child(odd) {
 .marker-icon {}
 .checkbox-box {
 	margin-right: 0.5rem;
-	border: 1px solid #666;
+	border: 1px solid #aaa;
 }
 .checkbox-label {
 	margin-left: 0.5rem;
