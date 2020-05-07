@@ -527,6 +527,7 @@ ul#loc_results li:nth-child(odd) {
 .wrapper-footer a {
   color: black;
   text-decoration: underline;
+	text-weight: bold;
 }
 .wrapper-footer a:hover {
   color: #c6d138;
@@ -584,6 +585,7 @@ ul {
 }
 .liste-titel {
   padding-top: 0.5rem;
+	font-size: 2.4rem;
 }
 .liste {
   padding-top: 5.4rem;
