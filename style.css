@@ -527,7 +527,7 @@ ul#loc_results li:nth-child(odd) {
 .wrapper-footer a {
   color: black;
   text-decoration: underline;
-	text-weight: bold;
+	font-weight: 600;
 }
 .wrapper-footer a:hover {
   color: #c6d138;
