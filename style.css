@@ -754,8 +754,10 @@ ul {
 
 /**** INHALT UND LAYOUT ****/
 
-
-
+.nav-container {
+	margin-left: -1.5rem;
+	margin-right: 1.5rem;
+}
 .header-titel-desktop{
   display: none;
 }
@@ -811,8 +813,6 @@ padding: 0;
 .download-smartphone {
    display: none;	
 }
-
-
 .page-wrapper {
     min-height: 0;
     margin-bottom: 0;
@@ -824,16 +824,13 @@ padding: 0;
 .page-footer, .page-wrapper:after {
     height: 2rem;
 }
-
-
 .uk-margin-top	{
     margin: 0 !important;
 }
-
-
 .wrapper-footer{
 padding: 0 1.5rem 0 1.5rem;
 }
+	
 }
 
 @media only screen and (min-device-width: 639px) {
