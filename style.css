@@ -715,6 +715,11 @@ ul {
 .uk-card-media-bottom img {
 	width: 85%;
 }
+.uk-card-media-bottom, .uk-card-media-top {
+    padding: 0;
+    display: inline-block;
+    margin-bottom: 1.5rem;
+}
 .uk-card-titel-h3 {
   font-family: anivers, sans-serif;
   font-weight: 900;
