@@ -497,7 +497,7 @@ ul#loc_results li:nth-child(odd) {
 }
 
 /**** FOOTER ****/
-.page-wrapper {
+/* .page-wrapper {
     min-height: calc(100% - 20rem);
     margin-bottom: -20rem;
 }
@@ -507,7 +507,7 @@ ul#loc_results li:nth-child(odd) {
 }
 .page-footer, .page-wrapper:after {
     height: 20rem;
-}
+} */
 
 .uk-margin-top.page-footer {
   margin-top: 15rem !important;
