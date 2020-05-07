@@ -585,14 +585,13 @@ ul {
 }
 .liste-titel {
   padding-top: 0.5rem;
-	font-size: 2.4rem;
 }
 .liste {
   padding-top: 5.4rem;
 }
 .titel {
   font-family: anivers, sans-serif;
-  font-size: 1.6rem;
+  font-size: 2.4rem;
   text-transform: uppercase;
   margin-bottom: 1.2rem;
   margin-top: 1.8rem;
